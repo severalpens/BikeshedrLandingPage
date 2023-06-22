@@ -3,7 +3,6 @@ import './App.css'
 
 
 function App() {
-
   return (
     <>
       <div>
@@ -16,13 +15,10 @@ function App() {
         Azure Cloud hosted demo applications
       </p>
         <p  className="read-the-docs">
-          A subsidiary of the <a href="https://severalpens.com" target="blank" rel="noopener noreferrer">Severalpens</a> corporation.
+          A subsidiary of the <a style={{color:"white"}} href="https://severalpens.com" target="blank" rel="noopener noreferrer">Severalpens</a> corporation.
         </p>
     </>
   )
-
-  
-
 }
 
 export default App
